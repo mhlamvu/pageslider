@@ -1,0 +1,9 @@
+span {
+    text-decoration: none;
+    color: blue;
+    cursor: pointer;
+}
+
+.images {
+    background-size: cover;
+}
